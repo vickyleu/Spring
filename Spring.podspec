@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name = 'Spring'
   s.version = '1.0.6'
   s.license = 'MIT'
-  s.swift_version = '4.0'
+  s.swift_version = '5.0'
   s.summary = 'A library to simplify iOS animations in Swift.'
   s.homepage = 'https://github.com/MengTo/Spring'
   s.authors = { 'Meng To' => 'meng@designcode.io' }
